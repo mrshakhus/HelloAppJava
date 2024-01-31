@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ПриветДжава</string>
+    <string name="hello_message">Привет Мир Андроид!</string>
+    <string name="hello_message_land">Привет мир горизонтальный Андроид!</string>
+</resources>
